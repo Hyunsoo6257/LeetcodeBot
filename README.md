@@ -21,3 +21,4 @@ To add the bot to your own server:
 2. In the **OAuth2 URL Generator** section, select the **bot** and **applications.commands** options.
 3. Then, click the Copy button next to the generated URL, and paste that into your browser.
 4. Select the server you are trying to add the bot too, and then click **Authorise**.
+# LeetcodeBot
