@@ -1,1 +1,13 @@
-Assure polite his really and others figure though. Day age advantages end sufficient eat expression travelling. Of on am father by agreed supply rather either. Own handsome delicate its property mistress her end appetite. Mean are sons too sold nor said. Son share three men power boy you. Now merits wonder effect garret own.
+#LeetcodeBot
+LeetcodeBot is a Discord bot designed to randomly generate Leetcode problems for users. The bot aims to help users practice coding by providing random problems directly in a Discord channel.
+
+###Features
+Generates random Leetcode problems with a simple command.
+Easy integration into any Discord server.
+Provides links to Leetcode problems for quick access.
+###How to Use
+Clone the repository.
+Install dependencies: npm install
+Run the bot: node index.js
+###License
+This project is licensed under the MIT License.
