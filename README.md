@@ -14,4 +14,5 @@ LeetcodeBot is a Discord bot designed to randomly generate Leetcode problems, he
    npm install
 
 ### Run the bot
-node index.js
+   ```bash
+   node index.js
