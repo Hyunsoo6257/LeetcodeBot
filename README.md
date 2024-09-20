@@ -9,7 +9,7 @@ LeetcodeBot is a Discord bot designed to randomly generate Leetcode problems Url
 
 ### Demo
 
-![Demo GIF](demo.gif)
+![Demo GIF](./Demo.gif)
 
 ### How to Use
 1. Clone the repository.
